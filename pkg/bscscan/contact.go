@@ -1,0 +1,5 @@
+package bscscan
+
+const (
+	CONTRACT_ADDRESS_USDT = "0x43764e4349Db18C224aC972897Ba1E301ee39356"
+)
